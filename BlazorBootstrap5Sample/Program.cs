@@ -12,6 +12,8 @@ using System.Threading.Tasks;
 
 // https://swimburger.net/blog/dotnet/how-to-deploy-aspnet-blazor-webassembly-to-github-pages
 
+// https://www.elharony.com/images-not-displaying-in-github-pages/
+
 namespace BlazorBootstrap5Sample
 {
     public class Program
