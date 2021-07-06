@@ -10,6 +10,8 @@ using System.Threading.Tasks;
 
 // https://stackoverflow.com/questions/68236284/how-to-setup-bootstrap-5-to-blazor-client-project
 
+// https://swimburger.net/blog/dotnet/how-to-deploy-aspnet-blazor-webassembly-to-github-pages
+
 namespace BlazorBootstrap5Sample
 {
     public class Program
