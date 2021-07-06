@@ -21,7 +21,7 @@ jobs:
 
     # publishes Blazor project to the release-folder
     - name: Publish .NET Core Project
-      run: dotnet publish BlazorBootstrap5Sample.csproj -c Release -o release --nologo
+      run: dotnet publish BlazorBootstrap5Sample/BlazorBootstrap5Sample.csproj -c Release -o release --nologo
     
     # changes the base-tag in index.html from '/' to 'BlazorBootstrap5Sample' to match GitHub Pages repository subdirectory
     - name: Change base-tag in index.html from / to BlazorBootstrap5Sample
